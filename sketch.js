@@ -6,7 +6,7 @@ var rVal = 0;
 var gVal = 0; 
 var bVal = 0;
 
-// BUILT ON THE IN-CLASS CODE FOUND HERE: 
+// BUILT ON THE IN-CLASS CODE BY REGINA FOUND HERE: https://editor.p5js.org/reginaflores/sketches/0cZdqLv8f
 function setup() {
   createCanvas(windowWidth, windowHeight);
   vid = createCapture(VIDEO); 
