@@ -6,3 +6,27 @@ html, body {
 canvas {
   display: block;
 }
+
+#startButton {
+  font-family: 'Roboto';
+  text-align: center;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  outline: none;
+  border: none;
+  background-color: #efcaff;
+  color: #8e0a00; 
+}
+
+#startButton:hover{
+  cursor: pointer;
+  background-color: #8e0a00;
+  color: #efcaff; 
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(./Roboto.ttf);
+}
